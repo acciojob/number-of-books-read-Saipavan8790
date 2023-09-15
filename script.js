@@ -18,7 +18,8 @@ const library = [
 
 const numberOfBooksRead = () => {
   // write your code here
-	
+
+	let count = 0;
 	  // Iterate through the library array
   for(let i = 0; i < library.length; i=i+1)
   {
